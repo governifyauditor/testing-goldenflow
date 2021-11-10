@@ -9,8 +9,6 @@ project:
       url: 'https://testing-goldenflow.herokuapp.com/'
     travis:
       url: 'https://travis-ci.org/github/governifyauditor/testing-goldenflow'
-    codeclimate:
-      url: 'https://codeclimate.com/github/governifyauditor/testing-goldenflow'
   members:
     member1:
       name: 'Governify'
