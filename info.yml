@@ -3,12 +3,9 @@ project:
   owner: 'governify'
   teamId: '123'
   identities:
-    pivotal:
-      url: 'https://www.pivotaltracker.com/n/projects/2487898'
-    heroku:
-      url: 'https://testing-goldenflow.herokuapp.com/'
-    travis:
-      url: 'https://travis-ci.org/github/governifyauditor/testing-goldenflow'
+    pivotal: 'https://www.pivotaltracker.com/n/projects/2487898'
+    heroku: 'https://testing-goldenflow.herokuapp.com/'
+    travis: 'https://travis-ci.org/github/governifyauditor/testing-goldenflow'
   members:
     member1:
       name: 'Governify'
